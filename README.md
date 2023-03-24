@@ -24,3 +24,5 @@ Requirements: python3 , numpy , opencv, mediapipe installed on your system.
 
 
 ![image](https://user-images.githubusercontent.com/96643131/227604019-99e8d478-0b4d-449c-9c9e-8579cfac438d.png)
+
+![image](https://user-images.githubusercontent.com/96643131/227604260-89752fc3-018b-4b95-ba5a-59f874bb9d91.png)
