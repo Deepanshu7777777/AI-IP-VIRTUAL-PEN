@@ -21,3 +21,6 @@ Algorithm
 5.Detect the landmarks, find the forefinger coordinates and keep storing them in the array for successive frames .(Arrays for drawing points on canvas)
 6.Finally draw the points stored in array on the frames and canvas .
 Requirements: python3 , numpy , opencv, mediapipe installed on your system.
+
+
+![image](https://user-images.githubusercontent.com/96643131/227604019-99e8d478-0b4d-449c-9c9e-8579cfac438d.png)
